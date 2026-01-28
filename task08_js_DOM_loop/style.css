@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+button {
+    margin-left: 6px;
+}
+
+#status {
+    margin-top: 12px;
+    font-weight: bold;
+}
